@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/Ettor/Documents/IMAC1/2025_2026_prog/S2/TD01_S2/build"
+			"value" : "c:/Users/Ettor/Documents/IMAC1/2025_2026_prog/S2/TD03_S2/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Ettor/Documents/IMAC1/2025_2026_prog/S2/TD01_S2/build/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/Ettor/Documents/IMAC1/2025_2026_prog/S2/TD03_S2/build/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/Ettor/Documents/IMAC1/2025_2026_prog/S2/TD01_S2"
+			"value" : "C:/Users/Ettor/Documents/IMAC1/2025_2026_prog/S2/TD03_S2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -659,7 +659,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/TD01_S2"
+			"value" : "C:/Program Files (x86)/TD03_S2"
 		},
 		{
 			"name" : "CMAKE_LINKER",
@@ -903,7 +903,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "TD01_S2"
+			"value" : "TD03_S2"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION",
@@ -1358,7 +1358,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "TD01_S2_BINARY_DIR",
+			"name" : "TD03_S2_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1367,10 +1367,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Ettor/Documents/IMAC1/2025_2026_prog/S2/TD01_S2/build"
+			"value" : "C:/Users/Ettor/Documents/IMAC1/2025_2026_prog/S2/TD03_S2/build"
 		},
 		{
-			"name" : "TD01_S2_IS_TOP_LEVEL",
+			"name" : "TD03_S2_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1382,7 +1382,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "TD01_S2_SOURCE_DIR",
+			"name" : "TD03_S2_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1391,7 +1391,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/Ettor/Documents/IMAC1/2025_2026_prog/S2/TD01_S2"
+			"value" : "C:/Users/Ettor/Documents/IMAC1/2025_2026_prog/S2/TD03_S2"
 		}
 	],
 	"kind" : "cache",

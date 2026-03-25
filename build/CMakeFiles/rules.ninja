@@ -6,7 +6,7 @@
 # It is included in the main 'build.ninja'.
 
 # =============================================================================
-# Project: TD01_S2
+# Project: TD03_S2
 # Configurations: Debug
 # =============================================================================
 # =============================================================================
@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\winlibs\winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64ucrt-13.0.0-r1\mingw64\bin\cmake.exe --regenerate-during-build -SC:\Users\Ettor\Documents\IMAC1\2025_2026_prog\S2\TD01_S2 -BC:\Users\Ettor\Documents\IMAC1\2025_2026_prog\S2\TD01_S2\build
+  command = C:\winlibs\winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64ucrt-13.0.0-r1\mingw64\bin\cmake.exe --regenerate-during-build -SC:\Users\Ettor\Documents\IMAC1\2025_2026_prog\S2\TD03_S2 -BC:\Users\Ettor\Documents\IMAC1\2025_2026_prog\S2\TD03_S2\build
   description = Re-running CMake...
   generator = 1
 

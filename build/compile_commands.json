@@ -1,8 +1,8 @@
 [
 {
-  "directory": "C:/Users/Ettor/Documents/IMAC1/2025_2026_prog/S2/TD01_S2/build",
-  "command": "C:\\winlibs\\winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64ucrt-13.0.0-r1\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o CMakeFiles\\ex01.dir\\src\\TD1.cpp.obj -c C:\\Users\\Ettor\\Documents\\IMAC1\\2025_2026_prog\\S2\\TD01_S2\\src\\TD1.cpp",
-  "file": "C:/Users/Ettor/Documents/IMAC1/2025_2026_prog/S2/TD01_S2/src/TD1.cpp",
-  "output": "C:/Users/Ettor/Documents/IMAC1/2025_2026_prog/S2/TD01_S2/build/CMakeFiles/ex01.dir/src/TD1.cpp.obj"
+  "directory": "C:/Users/Ettor/Documents/IMAC1/2025_2026_prog/S2/TD03_S2/build",
+  "command": "C:\\winlibs\\winlibs-x86_64-posix-seh-gcc-15.2.0-mingw-w64ucrt-13.0.0-r1\\mingw64\\bin\\c++.exe -g -std=gnu++17 -o CMakeFiles\\ex01.dir\\src\\exo1.cpp.obj -c C:\\Users\\Ettor\\Documents\\IMAC1\\2025_2026_prog\\S2\\TD03_S2\\src\\exo1.cpp",
+  "file": "C:/Users/Ettor/Documents/IMAC1/2025_2026_prog/S2/TD03_S2/src/exo1.cpp",
+  "output": "C:/Users/Ettor/Documents/IMAC1/2025_2026_prog/S2/TD03_S2/build/CMakeFiles/ex01.dir/src/exo1.cpp.obj"
 }
 ]
