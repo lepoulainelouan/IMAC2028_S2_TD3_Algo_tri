@@ -18,6 +18,7 @@ bool dichotomie(std::vector<int> const& vec, int const value) {
     }
     return false;
 }
+
 int main (){
     std::vector<int> array {1, 67, 42, 4, 11, 6, 5, 8, 9};
     bool found = dichotomie(array, 42);

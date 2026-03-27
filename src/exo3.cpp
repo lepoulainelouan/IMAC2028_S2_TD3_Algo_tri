@@ -18,4 +18,4 @@ ScopedTimer timer("nom du chronomètre");
 }
 
 std::vector<int> array {1, 2, 3, 4, 5, 6, 7, 8, 9};
-std::sort(array.begin(), array.end());
+std::sort(array.begin(), array.end());// test
