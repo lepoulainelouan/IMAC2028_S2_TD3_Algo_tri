@@ -26,14 +26,13 @@ void quick_sort(std::vector<int> & vec, size_t const left, size_t const right){
 if (left < right) {
     size_t pivot_index = quick_sort_partition(vec, left, right);
     quick_sort(vec, left, pivot_index - 1);
-    quick_sort(vec, pivot_index + 1, right);
+    quick_sort(vec, pivot_index+1, right);
 }
 }
 
 void quick_sort(std::vector<int> & vec) {
     quick_sort(vec, 0, vec.size() - 1);
 }
-
 
 int main (){
     std::vector<int> array {1, 67, 42, 4, 11, 6, 5, 8, 9};
