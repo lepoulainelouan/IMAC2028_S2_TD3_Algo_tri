@@ -1,3 +1,4 @@
+//Exercice 1 (tri par sélection)
 #include <vector>
 #include <iostream>
 #include <algorithm>
