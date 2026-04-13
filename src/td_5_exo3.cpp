@@ -57,16 +57,31 @@ std::ostream& operator<<(std::ostream& os, const Position& pos) {
 Direction turn_right(Direction dir) {
     switch (dir) {
         case Haut:
-        case Droite:
-        case Bas:
-        case Gauche:
-        
-        return Haut;
         return Droite;
+        case Droite:
         return Bas;
+        case Bas:
         return Gauche;
+        case Gauche:
+        return Haut;
     }
     return dir;
+}
+
+struct Input_Structure {
+    Position garde_position;
+    Direction garde_direction;
+    std::vector<Position> obstacles;
+};
+
+Direction char_to_direction(char c) {
+    switch (c) {
+        case '^':return Haut;
+        case 'v':return Bas;
+        case '>':return Droite;
+        case '<':return Gauche;
+    }
+    return Haut;
 }
 
 int main() {
